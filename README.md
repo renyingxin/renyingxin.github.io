@@ -6,7 +6,7 @@
 
 known unknown（知道自己不知道的知识）:
 系统设计
-高性能
+性能优化
 
 unknown unknown（不知道自己不知道的知识）：
 强化学习
