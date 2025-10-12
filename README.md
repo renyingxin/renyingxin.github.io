@@ -1,12 +1,6 @@
-##海量数据的存储和检索
-![image](https://user-images.githubusercontent.com/11482762/183235525-25cc80a3-c396-4407-9d96-f1eea3a8f6e4.png)
-
 宠辱不惊，一直努力，做好自己的本分，就是很不错的人。
 这些年失败的经历主要是一直不敢做出自己的选择，总是认为时机还不成熟，希望等自己能力更强之后再去追求，但是后来要不就是时过境迁伊人不在，要不就是自己也逐渐淡忘了自己的目标变得浑浑噩噩。
 
-known unknown（知道自己不知道的知识）:
-系统设计
-性能优化
-
-unknown unknown（不知道自己不知道的知识）：
-强化学习
+强化学习课程：
+1、Hugging Face：https://huggingface.co/learn/deep-rl-course/unit0/introduction
+2、强化学习的数学原理：B站
